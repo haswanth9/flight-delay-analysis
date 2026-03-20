@@ -44,20 +44,6 @@ These months are peak travel times → more delays.
 ### Least Reliable Airlines
 - SkyWest (OO)
 - Southwest (WN)
-
----
-
-## Visualizations
-
-### Airline Delay Comparison
-![Airline Delays](outputs/charts/airline_delays.png)
-
-### Airport Delay Analysis
-![Airport Delays](outputs/charts/airport_delays.png)
-
-### Monthly Delay Trends
-![Monthly Delays](outputs/charts/monthly_delays.png)
-
 ---
 
 ## Technologies Used
